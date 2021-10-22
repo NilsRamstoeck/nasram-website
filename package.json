@@ -1,0 +1,27 @@
+{
+  "name": "nasram",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel src/html/*",
+    "build": ""
+  },
+  "author": "Nils Ramstöck",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.2",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.43.3",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/nilsramstoeck/nasram-website"
+  },
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "navbar": "^2.1.0",
+    "vue": "^2.6.14",
+    "vue-hot-reload-api": "^2.3.4"
+  }
+}
